@@ -24,13 +24,7 @@ typedef struct{
 	char department[50];
 	char major[50];
 }STUDENT;
---------------------- 
-上述引用感谢：
-作者：晴天小风 
-来源：CSDN 
-原文：https://blog.csdn.net/Ag_nevergiveup/article/details/78499929 
-版权声明：本文为博主原创文章，转载请附上博文链接！
---------------------- 
+
 这样我们可以定义结构体变量如下：
 STUDENT Student；
 可以通过如下方式调用：
